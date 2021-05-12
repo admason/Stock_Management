@@ -3,6 +3,7 @@ A series of codes designed to automate my job as a Stock Controller
 
 ## 1. Back Order System
 ### BackOrder_Stock_ordering
+### See: https://github.com/admason/Stock_Management/blob/main/BackOrder_Stock_ordering.ipynb   for greater detail.
 ##### Back Order Stock Automated Ordering system.
 ##### With any stock control system there will be times when customer demand outweighs the quantity of items in storage.
 ##### The customer has to wait for their item to arrive in the Warehouse/Distribution Centre.
