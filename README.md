@@ -55,6 +55,6 @@ print(q," copies due on ",eta(q,s), "shipped from",s)
 ```
 
 #### An example output being:
-#### Quantity: 100
-```Source: aus
-100  copies due on  2021-07-28 shipped from aus```
+#### 
+Source: aus
+100  copies due on  2021-07-28 shipped from aus
